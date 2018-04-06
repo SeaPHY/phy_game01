@@ -19,8 +19,8 @@ public class ItemDataParser : MonoBehaviour
         //{
         //    StartCoroutine (PhpJsonParser (ampsetupPostion , ampsetupEquippableItem));
         //}
-        // 우비 너무 느려서 안되겠다.
-
+        // 호스팅 사이트 중단 사이트 찾아보는 중
+ 
         StartCoroutine (PhpJsonParser (ampsetupPostion , ampsetupEquippableItem));
     }
 
