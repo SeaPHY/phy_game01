@@ -1,0 +1,142 @@
+[
+  {
+    "HpPoint": 10,
+    "MpPoint": 0,
+    "HpPercent": 0.0,
+    "MpPercent": 0.0,
+    "Name": "hp 10 Postion",
+    "Text": "\uBE68\uAC04 \uD3EC\uC158 \uCCB4\uB825\uC744 10 \uD68C\uBCF5 \uD55C\uB2E4. ",
+    "Icon": "icons_42",
+    "Rank": 0
+  },
+  {
+    "HpPoint": 30,
+    "MpPoint": 0,
+    "HpPercent": 0.0,
+    "MpPercent": 0.0,
+    "Name": "hp 30 Postion",
+    "Text": "\uBE68\uAC04 \uD3EC\uC158 \uCCB4\uB825\uC744 30 \uD68C\uBCF5 \uD55C\uB2E4. ",
+    "Icon": "icons_35",
+    "Rank": 0
+  },
+  {
+    "HpPoint": 50,
+    "MpPoint": 0,
+    "HpPercent": 0.0,
+    "MpPercent": 0.0,
+    "Name": "hp 50 Postion",
+    "Text": "\uBE68\uAC04 \uD3EC\uC158 \uCCB4\uB825\uC744 50 \uD68C\uBCF5 \uD55C\uB2E4. ",
+    "Icon": "icons_49",
+    "Rank": 1
+  },
+  {
+    "HpPoint": 100,
+    "MpPoint": 0,
+    "HpPercent": 0.0,
+    "MpPercent": 0.0,
+    "Name": "hp 100 Postion",
+    "Text": "\uBE68\uAC04 \uD3EC\uC158 \uCCB4\uB825\uC744 100 \uD68C\uBCF5 \uD55C\uB2E4. ",
+    "Icon": "icons_28",
+    "Rank": 1
+  },
+  {
+    "HpPoint": 0,
+    "MpPoint": 10,
+    "HpPercent": 0.0,
+    "MpPercent": 0.0,
+    "Name": "Mp 10 Postion",
+    "Text": "\uD30C\uB780 \uD3EC\uC158 \uB9C8\uB098\uB97C 10 \uD68C\uBCF5 \uD55C\uB2E4. ",
+    "Icon": "icons_45",
+    "Rank": 0
+  },
+  {
+    "HpPoint": 0,
+    "MpPoint": 30,
+    "HpPercent": 0.0,
+    "MpPercent": 0.0,
+    "Name": "Mp 30 Postion",
+    "Text": "\uD30C\uB780 \uD3EC\uC158 \uB9C8\uB098\uB97C 30 \uD68C\uBCF5 \uD55C\uB2E4. ",
+    "Icon": "icons_38",
+    "Rank": 0
+  },
+  {
+    "HpPoint": 0,
+    "MpPoint": 50,
+    "HpPercent": 0.0,
+    "MpPercent": 0.0,
+    "Name": "Mp 50 Postion",
+    "Text": "\uD30C\uB780 \uD3EC\uC158 \uB9C8\uB098\uB97C 50 \uD68C\uBCF5 \uD55C\uB2E4. ",
+    "Icon": "icons_52",
+    "Rank": 1
+  },
+  {
+    "HpPoint": 0,
+    "MpPoint": 100,
+    "HpPercent": 0.0,
+    "MpPercent": 0.0,
+    "Name": "Mp 100 Postion",
+    "Text": "\uD30C\uB780 \uD3EC\uC158 \uB9C8\uB098\uB97C 100 \uD68C\uBCF5 \uD55C\uB2E4. ",
+    "Icon": "icons_31",
+    "Rank": 1
+  },
+  {
+    "HpPoint": 10,
+    "MpPoint": 10,
+    "HpPercent": 0.0,
+    "MpPercent": 0.0,
+    "Name": "Hp and Mp 10 Postion",
+    "Text": "\uB179\uC0C9 \uD3EC\uC158 \uCCB4\uB825\uACFC \uB9C8\uB098\uB97C 10 \uD68C\uBCF5 \uD55C\uB2E4. ",
+    "Icon": "icons_47",
+    "Rank": 0
+  },
+  {
+    "HpPoint": 30,
+    "MpPoint": 30,
+    "HpPercent": 0.0,
+    "MpPercent": 0.0,
+    "Name": "Hp and Mp 30 Postion",
+    "Text": "\uB179\uC0C9 \uD3EC\uC158 \uCCB4\uB825\uACFC \uB9C8\uB098\uB97C 30 \uD68C\uBCF5 \uD55C\uB2E4. ",
+    "Icon": "icons_40",
+    "Rank": 1
+  },
+  {
+    "HpPoint": 50,
+    "MpPoint": 50,
+    "HpPercent": 0.0,
+    "MpPercent": 0.0,
+    "Name": "Hp and Mp 50 Postion",
+    "Text": "\uB179\uC0C9 \uD3EC\uC158 \uCCB4\uB825\uACFC \uB9C8\uB098\uB97C 50 \uD68C\uBCF5 \uD55C\uB2E4. ",
+    "Icon": "icons_54",
+    "Rank": 1
+  },
+  {
+    "HpPoint": 100,
+    "MpPoint": 100,
+    "HpPercent": 0.0,
+    "MpPercent": 0.0,
+    "Name": "Hp and Mp 100 Postion",
+    "Text": "\uB179\uC0C9 \uD3EC\uC158 \uCCB4\uB825\uACFC \uB9C8\uB098\uB97C 100 \uD68C\uBCF5 \uD55C\uB2E4. ",
+    "Icon": "icons_33",
+    "Rank": 2
+  },
+  {
+    "HpPoint": 0,
+    "MpPoint": 0,
+    "HpPercent": 0.5,
+    "MpPercent": 0.5,
+    "Name": "Elixir",
+    "Text": "\uBE44\uC57D \uCCB4\uB825\uACFC \uB9C8\uB098\uB97C \uC808\uBC18 \uD68C\uBCF5 \uD55C\uB2E4. ",
+    "Icon": "icons_61",
+    "Rank": 3
+  },
+  {
+    "HpPoint": 0,
+    "MpPoint": 0,
+    "HpPercent": 1.0,
+    "MpPercent": 1.0,
+    "Name": "Power Elixir",
+    "Text": "\uC804\uC124\uC758 \uBE44\uC57D \uCCB4\uB825\uACFC \uB9C8\uB098\uB97C \uC644\uC804 \uD68C\uBCF5 \uD55C\uB2E4. ",
+    "Icon": "icons_66",
+    "Rank": 3
+  }
+]

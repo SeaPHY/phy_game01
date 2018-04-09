@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPortion xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Portion>
+    <Name>hp 10 Postion</Name>
+    <Text>빨간 포션 체력을 10 회복 한다. </Text>
+    <Icon>icons_42</Icon>
+    <Rank>Common</Rank>
+    <HpPoint>10</HpPoint>
+    <MpPoint>0</MpPoint>
+    <HpPercent>0</HpPercent>
+    <MpPercent>0</MpPercent>
+  </Portion>
+  <Portion>
+    <Name>hp 30 Postion</Name>
+    <Text>빨간 포션 체력을 30 회복 한다. </Text>
+    <Icon>icons_35</Icon>
+    <Rank>Common</Rank>
+    <HpPoint>30</HpPoint>
+    <MpPoint>0</MpPoint>
+    <HpPercent>0</HpPercent>
+    <MpPercent>0</MpPercent>
+  </Portion>
+  <Portion>
+    <Name>hp 50 Postion</Name>
+    <Text>빨간 포션 체력을 50 회복 한다. </Text>
+    <Icon>icons_49</Icon>
+    <Rank>Uncommon</Rank>
+    <HpPoint>50</HpPoint>
+    <MpPoint>0</MpPoint>
+    <HpPercent>0</HpPercent>
+    <MpPercent>0</MpPercent>
+  </Portion>
+  <Portion>
+    <Name>hp 100 Postion</Name>
+    <Text>빨간 포션 체력을 100 회복 한다. </Text>
+    <Icon>icons_28</Icon>
+    <Rank>Uncommon</Rank>
+    <HpPoint>100</HpPoint>
+    <MpPoint>0</MpPoint>
+    <HpPercent>0</HpPercent>
+    <MpPercent>0</MpPercent>
+  </Portion>
+  <Portion>
+    <Name>Mp 10 Postion</Name>
+    <Text>파란 포션 마나를 10 회복 한다. </Text>
+    <Icon>icons_45</Icon>
+    <Rank>Common</Rank>
+    <HpPoint>0</HpPoint>
+    <MpPoint>10</MpPoint>
+    <HpPercent>0</HpPercent>
+    <MpPercent>0</MpPercent>
+  </Portion>
+  <Portion>
+    <Name>Mp 30 Postion</Name>
+    <Text>파란 포션 마나를 30 회복 한다. </Text>
+    <Icon>icons_38</Icon>
+    <Rank>Common</Rank>
+    <HpPoint>0</HpPoint>
+    <MpPoint>30</MpPoint>
+    <HpPercent>0</HpPercent>
+    <MpPercent>0</MpPercent>
+  </Portion>
+  <Portion>
+    <Name>Mp 50 Postion</Name>
+    <Text>파란 포션 마나를 50 회복 한다. </Text>
+    <Icon>icons_52</Icon>
+    <Rank>Uncommon</Rank>
+    <HpPoint>0</HpPoint>
+    <MpPoint>50</MpPoint>
+    <HpPercent>0</HpPercent>
+    <MpPercent>0</MpPercent>
+  </Portion>
+  <Portion>
+    <Name>Mp 100 Postion</Name>
+    <Text>파란 포션 마나를 100 회복 한다. </Text>
+    <Icon>icons_31</Icon>
+    <Rank>Uncommon</Rank>
+    <HpPoint>0</HpPoint>
+    <MpPoint>100</MpPoint>
+    <HpPercent>0</HpPercent>
+    <MpPercent>0</MpPercent>
+  </Portion>
+  <Portion>
+    <Name>Hp and Mp 10 Postion</Name>
+    <Text>녹색 포션 체력과 마나를 10 회복 한다. </Text>
+    <Icon>icons_47</Icon>
+    <Rank>Common</Rank>
+    <HpPoint>10</HpPoint>
+    <MpPoint>10</MpPoint>
+    <HpPercent>0</HpPercent>
+    <MpPercent>0</MpPercent>
+  </Portion>
+  <Portion>
+    <Name>Hp and Mp 30 Postion</Name>
+    <Text>녹색 포션 체력과 마나를 30 회복 한다. </Text>
+    <Icon>icons_40</Icon>
+    <Rank>Uncommon</Rank>
+    <HpPoint>30</HpPoint>
+    <MpPoint>30</MpPoint>
+    <HpPercent>0</HpPercent>
+    <MpPercent>0</MpPercent>
+  </Portion>
+  <Portion>
+    <Name>Hp and Mp 50 Postion</Name>
+    <Text>녹색 포션 체력과 마나를 50 회복 한다. </Text>
+    <Icon>icons_54</Icon>
+    <Rank>Uncommon</Rank>
+    <HpPoint>50</HpPoint>
+    <MpPoint>50</MpPoint>
+    <HpPercent>0</HpPercent>
+    <MpPercent>0</MpPercent>
+  </Portion>
+  <Portion>
+    <Name>Hp and Mp 100 Postion</Name>
+    <Text>녹색 포션 체력과 마나를 100 회복 한다. </Text>
+    <Icon>icons_33</Icon>
+    <Rank>Rare</Rank>
+    <HpPoint>100</HpPoint>
+    <MpPoint>100</MpPoint>
+    <HpPercent>0</HpPercent>
+    <MpPercent>0</MpPercent>
+  </Portion>
+  <Portion>
+    <Name>Elixir</Name>
+    <Text>비약 체력과 마나를 절반 회복 한다. </Text>
+    <Icon>icons_61</Icon>
+    <Rank>Epic</Rank>
+    <HpPoint>0</HpPoint>
+    <MpPoint>0</MpPoint>
+    <HpPercent>0.5</HpPercent>
+    <MpPercent>0.5</MpPercent>
+  </Portion>
+  <Portion>
+    <Name>Power Elixir</Name>
+    <Text>전설의 비약 체력과 마나를 완전 회복 한다. </Text>
+    <Icon>icons_66</Icon>
+    <Rank>Epic</Rank>
+    <HpPoint>0</HpPoint>
+    <MpPoint>0</MpPoint>
+    <HpPercent>1</HpPercent>
+    <MpPercent>1</MpPercent>
+  </Portion>
+</ArrayOfPortion>

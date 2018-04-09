@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEquippableItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EquippableItem>
+    <Name>Hand Ax</Name>
+    <Text>Small ax used for harvesting wood.</Text>
+    <Icon>icons_140</Icon>
+    <Rank>Common</Rank>
+    <Type>Weapon1</Type>
+    <PowerBonus>2</PowerBonus>
+    <DefanseBonus>1</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Battle Axe</Name>
+    <Text>Double-sided axe made for combat.</Text>
+    <Icon>icons_142</Icon>
+    <Rank>Common</Rank>
+    <Type>Weapon1</Type>
+    <PowerBonus>3</PowerBonus>
+    <DefanseBonus>1</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Bardiche</Name>
+    <Text>Three crescent blades on this axe.</Text>
+    <Icon>icons_144</Icon>
+    <Rank>Uncommon</Rank>
+    <Type>Weapon1</Type>
+    <PowerBonus>4</PowerBonus>
+    <DefanseBonus>2</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Mithril Axe</Name>
+    <Text>Mithril axe made of the magic mineral.</Text>
+    <Icon>icons_146</Icon>
+    <Rank>Uncommon</Rank>
+    <Type>Weapon1</Type>
+    <PowerBonus>6</PowerBonus>
+    <DefanseBonus>2</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Crimson Axe</Name>
+    <Text>Crimson soaked battle axe.</Text>
+    <Icon>icons_150</Icon>
+    <Rank>Rare</Rank>
+    <Type>Weapon1</Type>
+    <PowerBonus>8</PowerBonus>
+    <DefanseBonus>4</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Gigantes Axe</Name>
+    <Text>Heavy axe used by giants.</Text>
+    <Icon>icons_152</Icon>
+    <Rank>Epic</Rank>
+    <Type>Weapon1</Type>
+    <PowerBonus>16</PowerBonus>
+    <DefanseBonus>8</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0.5</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Bagna</Name>
+    <Text>Fighting weapon with four short nails.</Text>
+    <Icon>icons_100</Icon>
+    <Rank>Common</Rank>
+    <Type>Weapon1</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>0</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>1.5</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Iron Claw</Name>
+    <Text>Its claws are made of steel.</Text>
+    <Icon>icons_91</Icon>
+    <Rank>Common</Rank>
+    <Type>Weapon1</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>0</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>1.5</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Mithril Claw</Name>
+    <Text>Mithril claw made of the magic mineral.</Text>
+    <Icon>icons_94</Icon>
+    <Rank>Uncommon</Rank>
+    <Type>Weapon1</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>0</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>2</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Dragon Fang</Name>
+    <Text>The claw head is made of dragon fangs.</Text>
+    <Icon>icons_96</Icon>
+    <Rank>Rare</Rank>
+    <Type>Weapon1</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>0</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>2.5</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Zephyrus Claw</Name>
+    <Text>Four winds empower this claw.</Text>
+    <Icon>icons_97</Icon>
+    <Rank>Epic</Rank>
+    <Type>Weapon1</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>0</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>4</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Spear</Name>
+    <Text>A short spear.</Text>
+    <Icon>icons_112</Icon>
+    <Rank>Common</Rank>
+    <Type>Weapon1</Type>
+    <PowerBonus>1</PowerBonus>
+    <DefanseBonus>0</DefanseBonus>
+    <RangeBonus>1</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Partisan</Name>
+    <Text>A long spear with a long blade.</Text>
+    <Icon>icons_113</Icon>
+    <Rank>Common</Rank>
+    <Type>Weapon1</Type>
+    <PowerBonus>1</PowerBonus>
+    <DefanseBonus>0</DefanseBonus>
+    <RangeBonus>1</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Halberd</Name>
+    <Text>An axe is mounted on this spear.</Text>
+    <Icon>icons_117</Icon>
+    <Rank>Uncommon</Rank>
+    <Type>Weapon1</Type>
+    <PowerBonus>2</PowerBonus>
+    <DefanseBonus>0</DefanseBonus>
+    <RangeBonus>1</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Mithril Spear</Name>
+    <Text>Mithril spear made of the magic mineral.</Text>
+    <Icon>icons_120</Icon>
+    <Rank>Uncommon</Rank>
+    <Type>Weapon1</Type>
+    <PowerBonus>2</PowerBonus>
+    <DefanseBonus>0</DefanseBonus>
+    <RangeBonus>1</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Holy Lance</Name>
+    <Text>A white spirit blessed this holy spear.</Text>
+    <Icon>icons_122</Icon>
+    <Rank>Rare</Rank>
+    <Type>Weapon1</Type>
+    <PowerBonus>4</PowerBonus>
+    <DefanseBonus>0</DefanseBonus>
+    <RangeBonus>1</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Gaebulg Spear</Name>
+    <Text>Contains deeply engraved shadow magic.</Text>
+    <Icon>icons_125</Icon>
+    <Rank>Epic</Rank>
+    <Type>Weapon1</Type>
+    <PowerBonus>8</PowerBonus>
+    <DefanseBonus>0</DefanseBonus>
+    <RangeBonus>1</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0.5</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Leather Top</Name>
+    <Text>Made with the best leather.</Text>
+    <Icon>icons_182</Icon>
+    <Rank>Common</Rank>
+    <Type>Chest</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>1</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Adventurer's Garb</Name>
+    <Text>Worn clothing that can withstand a harsh journey.</Text>
+    <Icon>icons_184</Icon>
+    <Rank>Uncommon</Rank>
+    <Type>Chest</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>2</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Hard Leather</Name>
+    <Text>Hardened leather vest.</Text>
+    <Icon>icons_185</Icon>
+    <Rank>Rare</Rank>
+    <Type>Chest</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>4</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Brigandine</Name>
+    <Text>Clothing made with reinforced steel.</Text>
+    <Icon>icons_186</Icon>
+    <Rank>Epic</Rank>
+    <Type>Chest</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>8</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Leather Bandana</Name>
+    <Text>Headband made of leather to protect the head.</Text>
+    <Icon>icons_189</Icon>
+    <Rank>Common</Rank>
+    <Type>Helmet</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>1</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Fur Hat</Name>
+    <Text>Hat made of fur.</Text>
+    <Icon>icons_190</Icon>
+    <Rank>Uncommon</Rank>
+    <Type>Helmet</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>2</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Turban</Name>
+    <Text>Thick cloth wrapped repeatedly around one's head.</Text>
+    <Icon>icons_192</Icon>
+    <Rank>Rare</Rank>
+    <Type>Helmet</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>4</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Feather Cap</Name>
+    <Text>Stylish hat with feathers from many beautiful birds.</Text>
+    <Icon>icons_191</Icon>
+    <Rank>Epic</Rank>
+    <Type>Helmet</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>8</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Round Shield</Name>
+    <Text>A circular shield with a reinforced steel frame.</Text>
+    <Icon>icons_169</Icon>
+    <Rank>Common</Rank>
+    <Type>Weapon2</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>1</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Spike Shield</Name>
+    <Text>A shield with spikes on its surface for offense.</Text>
+    <Icon>icons_174</Icon>
+    <Rank>Uncommon</Rank>
+    <Type>Weapon2</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>2</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Mithril Buckler</Name>
+    <Text>Mithril buckler made of the magic mineral.</Text>
+    <Icon>icons_180</Icon>
+    <Rank>Rare</Rank>
+    <Type>Weapon2</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>4</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Dragon Buckler</Name>
+    <Text>Buckler made of dragon scales.</Text>
+    <Icon>icons_181</Icon>
+    <Rank>Epic</Rank>
+    <Type>Weapon2</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>8</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0.5</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Army Boots</Name>
+    <Text>Boots popular among armymen.</Text>
+    <Icon>icons_196</Icon>
+    <Rank>Common</Rank>
+    <Type>Boots</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>1</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Battle Boots</Name>
+    <Text>They don't look any different than other boots</Text>
+    <Icon>icons_198</Icon>
+    <Rank>Uncommon</Rank>
+    <Type>Boots</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>2</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Mithril Boots</Name>
+    <Text>Mithril Boots made of the magic mineral.</Text>
+    <Icon>icons_200</Icon>
+    <Rank>Rare</Rank>
+    <Type>Boots</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>4</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Vidar's Boots</Name>
+    <Text>A pair of boots that were worn by Vidar, the son of Odin, when he killed the Fenrir Wolf.</Text>
+    <Icon>icons_201</Icon>
+    <Rank>Epic</Rank>
+    <Type>Boots</Type>
+    <PowerBonus>0</PowerBonus>
+    <DefanseBonus>8</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0.5</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Glove</Name>
+    <Text>A specially made covering worn on the hands to improve one's grip on weapons.</Text>
+    <Icon>icons_203</Icon>
+    <Rank>Common</Rank>
+    <Type>Gloves</Type>
+    <PowerBonus>1</PowerBonus>
+    <DefanseBonus>1</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Combo Battle Glove</Name>
+    <Text>The special spells of blessing written on this battle gloves</Text>
+    <Icon>icons_205</Icon>
+    <Rank>Uncommon</Rank>
+    <Type>Gloves</Type>
+    <PowerBonus>2</PowerBonus>
+    <DefanseBonus>2</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Linen Glove</Name>
+    <Text>A special glove made from new light composite materials.</Text>
+    <Icon>icons_207</Icon>
+    <Rank>Rare</Rank>
+    <Type>Gloves</Type>
+    <PowerBonus>3</PowerBonus>
+    <DefanseBonus>3</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Orlean's Gloves</Name>
+    <Text>A pair of gloves that was once used by a palace chef.</Text>
+    <Icon>icons_209</Icon>
+    <Rank>Epic</Rank>
+    <Type>Gloves</Type>
+    <PowerBonus>4</PowerBonus>
+    <DefanseBonus>4</DefanseBonus>
+    <RangeBonus>0</RangeBonus>
+    <PowerPercentBonus>0.2</PowerPercentBonus>
+    <DefansePercentBonus>0.2</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Angelic Ring</Name>
+    <Text>A ring that contains holy power. It responds to specific abilities and strengthens them.</Text>
+    <Icon>icons_266</Icon>
+    <Rank>Rare</Rank>
+    <Type>Accessory1</Type>
+    <PowerBonus>1</PowerBonus>
+    <DefanseBonus>1</DefanseBonus>
+    <RangeBonus>1</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Solomon's Ring</Name>
+    <Text>A ring with the hidden power of a genie.</Text>
+    <Icon>icons_270</Icon>
+    <Rank>Epic</Rank>
+    <Type>Accessory1</Type>
+    <PowerBonus>2</PowerBonus>
+    <DefanseBonus>2</DefanseBonus>
+    <RangeBonus>2</RangeBonus>
+    <PowerPercentBonus>0.2</PowerPercentBonus>
+    <DefansePercentBonus>0.2</DefansePercentBonus>
+    <RangePercentBonus>0.2</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Angelic Ring2</Name>
+    <Text>A ring that contains holy power. It responds to specific abilities and strengthens them.</Text>
+    <Icon>icons_268</Icon>
+    <Rank>Rare</Rank>
+    <Type>Accessory2</Type>
+    <PowerBonus>1</PowerBonus>
+    <DefanseBonus>1</DefanseBonus>
+    <RangeBonus>1</RangeBonus>
+    <PowerPercentBonus>0</PowerPercentBonus>
+    <DefansePercentBonus>0</DefansePercentBonus>
+    <RangePercentBonus>0</RangePercentBonus>
+  </EquippableItem>
+  <EquippableItem>
+    <Name>Earth's Embrace</Name>
+    <Text>The power of the earth protects the wearer.</Text>
+    <Icon>icons_276</Icon>
+    <Rank>Epic</Rank>
+    <Type>Accessory2</Type>
+    <PowerBonus>2</PowerBonus>
+    <DefanseBonus>2</DefanseBonus>
+    <RangeBonus>2</RangeBonus>
+    <PowerPercentBonus>0.2</PowerPercentBonus>
+    <DefansePercentBonus>0.2</DefansePercentBonus>
+    <RangePercentBonus>0.2</RangePercentBonus>
+  </EquippableItem>
+</ArrayOfEquippableItem>
